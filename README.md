@@ -1,6 +1,15 @@
-– SEO Agency Figma Website
+<div align='center'><h1>UrbanAttire</h1></div>
 
-This is a solution to the [TemplatesJungle](https://templatesjungle.com/downloads/boost-seo-agency-figma-website-design-template/#google_vignette)
+<h2>About the project</h2>
+
+  <p>Boost is a premier agency website designed to help companies expand their business through world-class solutions.</p>
+
+👉 Live Demo: <a href='https://boost-js-sass.vercel.app/'>Live Demo</a>
+
+<h3>Build with:</h3>
+
+» HTML5, SCSS, JavaScript <br>
+» Remix Icons, Swiper, ScrollReveal
 
 ### Screenshot
 
@@ -13,7 +22,3 @@ This is a solution to the [TemplatesJungle](https://templatesjungle.com/download
 ![](./assets/screenshots/screenshot7.png)
 ![](./assets/screenshots/screenshot8.png)
 ![](./assets/screenshots/screenshot0.png)
-
-### Links
-
-- Live Site URL: https://sanjayvjacob.github.io/boost-js-sass/
