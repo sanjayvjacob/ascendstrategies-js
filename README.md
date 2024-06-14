@@ -12,7 +12,8 @@ This is a solution to the [TemplatesJungle](https://templatesjungle.com/download
 ![](./assets/screenshots/screenshot6.png)
 ![](./assets/screenshots/screenshot7.png)
 ![](./assets/screenshots/screenshot8.png)
-![](./assets/screenshots/screenshot9.png)
+
+<!-- ![](./assets/screenshots/screenshot9.png) -->
 
 ### Links
 
