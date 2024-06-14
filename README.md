@@ -1,10 +1,10 @@
-<div align='center'><h1>UrbanAttire</h1></div>
+<div align='center'><h1>Ascend Strategies</h1></div>
 
 <h2>About the project</h2>
 
   <p>Boost is a premier agency website designed to help companies expand their business through world-class solutions.</p>
 
-👉 Live Demo: <a href='https://boost-js-sass.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://ascendstrategies-js.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
