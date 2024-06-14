@@ -1,10 +1,10 @@
-# Boost – SEO Agency Figma Website
+– SEO Agency Figma Website
 
 This is a solution to the [TemplatesJungle](https://templatesjungle.com/downloads/boost-seo-agency-figma-website-design-template/#google_vignette)
 
 ### Screenshot
 
-![](./assets/screenshot.png)
+<!-- ![](./assets/screenshot.png) -->
 
 ### Links
 

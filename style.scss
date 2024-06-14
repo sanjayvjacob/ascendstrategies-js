@@ -272,6 +272,7 @@ h6{
     justify-content: space-between;
     padding: 0 30px;
   }
+
   .btn{
     display: none;
     @include breakpoint(desktop){
@@ -285,6 +286,7 @@ h6{
     height: 80px;
   }
 }
+
 //nav
 .nav{
   background: $c-black;
