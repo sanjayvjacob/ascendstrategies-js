@@ -5,14 +5,14 @@ $f-primary:"Poppins", sans-serif;
 $f-secondary:"Roboto", sans-serif;
 
 //colors
-$c-primary: #5375d9;
-$c-primary-hover: #4d6bc5;
-$c-primary-subtle: #eaf0ff;
+$c-primary: #4aae76;
+$c-primary-hover: #53c28b;
+$c-primary-subtle: #B5E4CD;
 $c-secondary: #ff6433;
-$c-secondary-subtle: #febb94;
+$c-secondary-subtle: #4aae76; //#fbbc94
 $c-black: #222222;
-$c-body-text: #4a4a4a;
-$c-body-bg: #ffffff;
+$c-body-text: #111;
+$c-body-bg: #C8EBDA;
 $c-white: #ffffff;
 
 //breakpoints
@@ -170,7 +170,7 @@ h6{
   display: flex;
   flex-direction: column;
   gap: 70px;
-  background-image: url("./assets/banner/bg.svg");
+  background-image: url("./assets/banner/bg-hero.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   &__container{
@@ -516,6 +516,8 @@ h6{
     display: flex;
     flex-direction: column;
     gap: 16px;
+    padding: 1rem;
+    text-align: justify;
     transition: all 0.3s ease-in-out;
     &:hover{
       background: $c-secondary-subtle;
@@ -597,7 +599,8 @@ h6{
       .faq__item-answer{
         background-color: $c-white;
         height: auto;
-        padding: 20px 30px 0 30px;
+        padding: 10px 20px;
+        border-radius: 10px;
       }
     }
   }
